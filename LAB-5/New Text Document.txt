@@ -1,0 +1,7 @@
+1. Arithmetic operators [ %, ++, --]
+2. Assignment operators [ += , -=, *=, /=, %=, &= , |= , ^=]
+3. Bitwise operators
+
+4. Conditional or Ternary Operator (?:) in C
+5. Shift operators ( left shift [ << ] , right shift [ >> ] )
+6. Math functions( abs(n), sqrt(n), pow(a, x), log(n), log10(n), sin(n), cos(n), tan(n), round(n), trunc(n), ceil(n), floor(n) )
