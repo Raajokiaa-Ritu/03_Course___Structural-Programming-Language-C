@@ -1,4 +1,4 @@
-# c-programming
+# C-Programming
 <h2>Structured Programming Language</h2>
 
 <b>Lecture - 1 introduction to c</b>
