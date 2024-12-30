@@ -9,4 +9,8 @@
 
 <b>Lecture - 4 Decision Making</b>
 
+<b>Lecture - 5 Array</b>
+
+<b>Lecture - 6 String</b>
+
 
