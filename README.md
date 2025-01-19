@@ -13,4 +13,12 @@
 
 <b>Lecture - 6 String</b>
 
+<b>Lecture - 7 Functions In C</b>
 
+<b>Lecture - 8 Pointers In C</b>
+
+<b>Lecture - 9 Structures In C</b>
+
+<b>Lecture - 10 Files and Dynamic Memory Allocations in C</b>
+
+<b>Lecture - 11 Recursion In C</b>
