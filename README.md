@@ -1,7 +1,7 @@
 # C-Programming
 <h2>Structured Programming Language</h2>
 
-<b>Lecture - 1 introduction to c</b>
+<b><a href="https://github.com/Raajokiaa-Ritu/03_Course___Structural-Programming-Language-C/blob/main/Lecture%20-%201%20introduction%20to%20c.pdf" target="_blank">Lecture - 1 introduction to c</a></b>
 
 <b>Lecture - 2 Operators in C</b>
 
