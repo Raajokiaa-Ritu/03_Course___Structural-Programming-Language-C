@@ -19,9 +19,7 @@
 
 <b>Lecture - 9 Pointers In C</b>
 
-<b>Lecture - 10 Structures In C</b>
-
-<b>Lecture - 11 Files and Dynamic Memory Allocations in C</b>
+<b>Lecture - 10 Structures In C</b> <br>
 
 
-
+<h3>It Ends Here</h3>
