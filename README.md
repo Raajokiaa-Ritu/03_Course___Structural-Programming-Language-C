@@ -15,7 +15,7 @@
 
 <b><a href="https://github.com/Raajokiaa-Ritu/03_Course___Structural-Programming-Language-C/blob/main/Lecture%20-%202%20Operators%20in%20C.pdf" target="_blank">Lecture - 7 Functions In C</a></b>
 
-<b><a href="https://github.com/Raajokiaa-Ritu/03_Course___Structural-Programming-Language-C/blob/main/Lecture%20-%202%20Operators%20in%20C.pdf" target="_blank">Lecture - 8 Recursion In C</a></b>
+<b><a href="https://github.com/Raajokiaa-Ritu/03_Course___Structural-Programming-Language-C/blob/main/Lecture%20-%208%20Recursion%20in%20C.pdf" target="_blank">Lecture - 8 Recursion In C</a></b>
 
 <b><a href="https://github.com/Raajokiaa-Ritu/03_Course___Structural-Programming-Language-C/blob/main/Lecture%20-%202%20Operators%20in%20C.pdf" target="_blank">Lecture - 9 Pointers In C</a></b>
 
