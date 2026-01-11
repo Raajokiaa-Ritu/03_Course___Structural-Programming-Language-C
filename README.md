@@ -23,5 +23,3 @@
 <br>
 
 <h3>It Ends Here</h3>
-
-How much? : https://docs.google.com/spreadsheets/d/1sbsVHjbUUas-pTvxqz8qAE3pTgv0yIsqSfIiFaASf3Q/edit?gid=460627227#gid=460627227 
